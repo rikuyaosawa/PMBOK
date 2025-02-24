@@ -1,0 +1,1 @@
+A quick summary of PMBOK 7th edition, content by [The Complete Project Management Body of Knowledge in One Video (PMBOK 7th Edition)](https://www.youtube.com/watch?v=2gmCr40uT4U&t=1962s) by [David McLachlan](https://www.youtube.com/@davidmclachlanproject).
